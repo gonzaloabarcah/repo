@@ -25,7 +25,7 @@
     }
   },
   "variables": {
-    "datalakeFileSystems": [ "landing", "trusted", "refined" ]
+    "datalakeFileSystems": [ "bronze", "silver", "gold" ]
   },
   "resources": [
     {
