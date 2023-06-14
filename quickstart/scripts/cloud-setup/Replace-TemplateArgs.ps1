@@ -2,7 +2,7 @@ param (
     # Azure DevOps organization where you want to create this HOL resources
     [parameter(mandatory=$true)]
     [string]$orgName = '<orgName>',
-
+ 
     # Azure DevOps organization where you want to create this HOL resources
     [parameter(mandatory=$true)]
     [string]$projectName = '<projectName>',
